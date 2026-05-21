@@ -36,7 +36,7 @@ PassMan leverages a bleeding-edge frontend ecosystem. All package requirements a
 To get a local copy of PassMan up and running, copy the link below and paste it into your terminal:
 
 ```bash
-git clone (https://github.com/OmMishra15/PassMan---Your-Password-Manager-.git)
+git clone https://github.com/OmMishra15/PassMan---Your-Password-Manager-.git
 
 cd PassMan---Your-Password-Manager-
 ```
