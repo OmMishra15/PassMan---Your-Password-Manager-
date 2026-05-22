@@ -72,6 +72,8 @@ npm run dev
 ```
 Bash
 
+# First change Your directory
+cd Backend
 node --watch server.js 
 
 # Automatic Restart
